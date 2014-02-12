@@ -1,0 +1,11 @@
+<div class="nav-container">
+	<script type="text/javascript">
+		//<![CDATA[
+			$j(document).ready(function(){
+					$j('#nav').mobileMenu();
+			});
+		//]]>
+	</script>
+    <ul id="nav">
+        <li  class="level0 nav-1 first level-top"><a href="http://localhost/detc/index.php/pillows.html?___SID=U"  class="level-top" ><span>Pillows</span></a></li><li  class="level0 nav-2 level-top"><a href="http://localhost/detc/index.php/comforters.html?___SID=U"  class="level-top" ><span>Comforters</span></a></li><li  class="level0 nav-3 level-top"><a href="http://localhost/detc/index.php/beddings.html?___SID=U"  class="level-top" ><span>Bedding</span></a></li><li  class="level0 nav-4 active level-top"><a href="http://localhost/detc/index.php/organics.html?___SID=U"  class="level-top" ><span>Organics</span></a></li><li  class="level0 nav-5 level-top"><a href="http://localhost/detc/index.php/protection.html?___SID=U"  class="level-top" ><span>Protection</span></a></li><li  class="level0 nav-6 level-top"><a href="http://localhost/detc/index.php/throws.html?___SID=U"  class="level-top" ><span>Throws</span></a></li><li  class="level0 nav-7 level-top"><a href="http://localhost/detc/index.php/apparel.html?___SID=U"  class="level-top" ><span>Apparel</span></a></li><li  class="level0 nav-8 level-top"><a href="http://localhost/detc/index.php/bath.html?___SID=U"  class="level-top" ><span>Bath</span></a></li><li  class="level0 nav-9 level-top"><a href="http://localhost/detc/index.php/speciality.html?___SID=U"  class="level-top" ><span>Speciality</span></a></li><li  class="level0 nav-10 last level-top"><a href="http://localhost/detc/index.php/giving.html?___SID=U"  class="level-top" ><span>Giving</span></a></li>    </ul>
+</div>
